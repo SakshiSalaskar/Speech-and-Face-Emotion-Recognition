@@ -1,4 +1,4 @@
-# Speech and Face Emotion Recognition
+# Speech and Face Emotion Recognition System
 
 📜**DESCRIPTION**:
 The Speech and Face Emotion Recognition System is a machine learning-based project that detects and classifies emotions from both speech and facial expressions. By leveraging advanced algorithms and deep learning techniques, this system can analyze audio recordings and facial expression to determine the emotional state of a person in real-time.
