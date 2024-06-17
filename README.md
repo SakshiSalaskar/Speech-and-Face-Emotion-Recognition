@@ -1,21 +1,21 @@
-# Speech-and-Face-Emotion-Recognition
+# Speech and Face Emotion Recognition
 
-📜DESCRIPTION:
+📜**DESCRIPTION**:
 The Speech and Face Emotion Recognition System is a machine learning-based project that detects and classifies emotions from both speech and facial expressions. By leveraging advanced algorithms and deep learning techniques, this system can analyze audio recordings and facial expression to determine the emotional state of a person in real-time.
 
 
 
-📌FEATURES:
+📌**FEATURES**:
 
 
-1.Speech Emotion Recognition:
+1.**Speech Emotion Recognition**:
 
 • Emotion Detection from Audio: Analyze audio recordings to detect emotions such as happiness, sadness, anger, surprise, and more.
 
 • Noise Robustness: Incorporates noise reduction techniques to improve accuracy in noisy environments.
 
 
-Face Emotion Recognition:
+2.**Face Emotion Recognition**:
 
 • Emotion Detection from Images and Video: Identify emotions from facial expressions in both static images and live video streams.
 
@@ -25,7 +25,7 @@ Face Emotion Recognition:
 
 
 
-📷SCREENSHOTS:
+📷**SCREENSHOTS**:
 
 ![image](https://github.com/SakshiSalaskar/Speech-and-Face-Emotion-Recognition/assets/135793633/9e1ebad2-28bd-4bed-9105-34ee92e9bbbc)
 
@@ -45,7 +45,7 @@ Face Emotion Recognition:
 ![image](https://github.com/SakshiSalaskar/Speech-and-Face-Emotion-Recognition/assets/135793633/30fd8e13-2c44-49cc-82a5-77d445e02be3)
 
 
-👩🏾‍💻BUILT WITH:
+👩🏾‍💻**BUILT WITH**:
 
 **Programming Languages and Framework**:
 
