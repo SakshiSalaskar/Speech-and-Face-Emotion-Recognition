@@ -51,35 +51,36 @@ The Speech and Face Emotion Recognition System is a machine learning-based proje
 
 • Python
 
-• TensorFlow : A powerful machine learning library for building and training neural networks.
+• TensorFlow 
 
-• Keras : A high-level neural networks API, running on top of TensorFlow.
+• Keras 
 
-• OpenCV : A library for computer vision tasks, used for face detection and image processing.
+• OpenCV 
 
-• Scikit-learn : A machine learning library used for implementing various machine learning algorithms and models.
+• Scikit-learn 
+
+
+**Development**:
+
+• Spyder
 
 
 **Tools and Libraries**:
 
-• NumPy : A fundamental package for scientific computing with Python.
+• NumPy 
 
-• Pandas : A data manipulation and analysis library.
+• Pandas 
 
-• Matplotlib : A plotting library for creating static, animated, and interactive visualizations.
+• Matplotlib 
 
-• Seaborn : A data visualization library based on Matplotlib, used for making statistical graphics.
-
-• Dlib : A toolkit for making real-world machine learning and data analysis applications, particularly used for facial landmark detection.
-
-• SQLite : A C-language library that provides a lightweight, disk-based database. It is used for storing and retrieving data within the application.
+• SQLite 
 
 
 **Miscellaneous**:
 
-• Jupyter Notebook : An open-source web application that allows you to create and share documents containing live code, equations, visualizations, and narrative text.
+• Jupyter Notebook 
 
-• VS Code : A source-code editor made by Microsoft for Windows, Linux, and macOS.
+• VS Code 
 
 
 
